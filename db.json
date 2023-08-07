@@ -1,0 +1,60 @@
+{
+    "users": [
+      {
+        "id": 4,
+        "name": "Nrupul",
+        "age": "37",
+        "place": "Vijayawada",
+        "batch_name": "WEB-13",
+        "profession": "FSD"
+      },
+      {
+        "id": 5,
+        "name": "Nrupul",
+        "age": 37,
+        "place": "Vijayawada",
+        "batch_name": "WEB-18",
+        "profession": "FSD"
+      },
+      {
+        "id": 6,
+        "name": "ankita",
+        "age": 37,
+        "place": "Vijayawada",
+        "batch_name": "WEB-18",
+        "profession": "FSD"
+      },
+      {
+        "id": 7,
+        "name": "Nrupul",
+        "age": 37,
+        "place": "Vijayawada",
+        "batch_name": "WEB-18",
+        "profession": "FSD"
+      },
+      {
+        "id": 8,
+        "name": "Nrupul",
+        "age": 37,
+        "place": "Vijayawada",
+        "batch_name": "WEB-18",
+        "profession": "FSD"
+      },
+      {
+        "id": 9,
+        "name": "Nrupul",
+        "age": 37,
+        "place": "Vijayawada",
+        "batch_name": "WEB-18",
+        "profession": "FSD"
+      },
+      {
+        "id": 10,
+        "name": "Nrupul",
+        "age": 37,
+        "place": "Vijayawada",
+        "batch_name": "WEB-18",
+        "profession": "FSD"
+      }
+    ]
+  }
