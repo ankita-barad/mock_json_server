@@ -1,60 +1,70 @@
 {
-    "users": [
-      {
-        "id": 4,
-        "name": "Nrupul",
-        "age": "37",
-        "place": "Vijayawada",
-        "batch_name": "WEB-13",
-        "profession": "FSD"
-      },
-      {
-        "id": 5,
-        "name": "Nrupul",
-        "age": 37,
-        "place": "Vijayawada",
-        "batch_name": "WEB-18",
-        "profession": "FSD"
-      },
-      {
-        "id": 6,
-        "name": "ankita",
-        "age": 37,
-        "place": "Vijayawada",
-        "batch_name": "WEB-18",
-        "profession": "FSD"
-      },
-      {
-        "id": 7,
-        "name": "Nrupul",
-        "age": 37,
-        "place": "Vijayawada",
-        "batch_name": "WEB-18",
-        "profession": "FSD"
-      },
-      {
-        "id": 8,
-        "name": "Nrupul",
-        "age": 37,
-        "place": "Vijayawada",
-        "batch_name": "WEB-18",
-        "profession": "FSD"
-      },
-      {
-        "id": 9,
-        "name": "Nrupul",
-        "age": 37,
-        "place": "Vijayawada",
-        "batch_name": "WEB-18",
-        "profession": "FSD"
-      },
-      {
-        "id": 10,
-        "name": "Nrupul",
-        "age": 37,
-        "place": "Vijayawada",
-        "batch_name": "WEB-18",
-        "profession": "FSD"
-      }
-    ]
-  }
+  "employees": [
+    {
+      "id": 1,
+      "name": "Abram Langtry",
+      "image": "./server-files/images/avatar/avatar1.jpeg",
+      "department": 1,
+      "salary": 95000
+    },
+    {
+      "id": 2,
+      "name": "Flossy Arrell",
+      "image": "./server-files/images/avatar/avatar1.jpeg",
+      "department": 2,
+      "salary": 20000
+    },
+    {
+      "id": 3,
+      "name": "Giorgio Antonioni",
+      "image": "./server-files/images/avatar/avatar1.jpeg",
+      "department": 3,
+      "salary": 95000
+    },
+    {
+      "name": "Himanshu",
+      "image": "./server-files/images/avatar/avatar2.jpeg",
+      "department": 4,
+      "salary": 100000,
+      "createdAt": 1670325954162,
+      "id": "tEYFrHNsdO"
+    },
+    {
+      "name": "John Doe",
+      "image": "./server-files/images/avatar/avatar1.jpeg",
+      "department": 1,
+      "salary": 80000,
+      "id": "R4dvtugCT2"
+    },
+    {
+      "name": "Veerangana Malav",
+      "image": "./server-files/images/avatar/avatar3.jpeg",
+      "department": "2",
+      "salary": "600000",
+      "id": "EZCIjihVSg"
+    },
+    {
+      "name": "Vanshika",
+      "image": "./server-files/images/avatar/avatar3.jpeg",
+      "department": 2,
+      "salary": "500000",
+      "createdAt": 1678999467273,
+      "id": "rwhbEhqwxj"
+    },
+    {
+      "name": "Vandit",
+      "image": "./server-files/images/avatar/avatar1.jpeg",
+      "department": "2",
+      "salary": "450000",
+      "id": "5885CbQrMI"
+    },
+    {
+      "name": "Kaustubh",
+      "image": "./server-files/images/avatar/avatar1.jpeg",
+      "dept": "3",
+      "salary": "500000",
+      "createdAt": 1679066693940,
+      "id": "wIdyF3uQ1m"
+    }
+  ]
+}
